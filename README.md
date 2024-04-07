@@ -14,5 +14,5 @@ output:
 `['analitics', 'operation', 'sale', 'web']`
 
 **Still updating**
-- test edge test
+- test edge cases
 - adopt machine learning algo.
