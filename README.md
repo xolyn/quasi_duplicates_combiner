@@ -1,5 +1,5 @@
 # quasi_duplicates_combiner
-A Python program combining similar words in a word bag. 
+A Python program combining similar words from a word bag. 
 
 ## parameters:
 - `wordlist`: list of strings
