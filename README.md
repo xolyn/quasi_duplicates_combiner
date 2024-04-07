@@ -5,7 +5,9 @@ A Python program combining similar words from a word bag.
 - `wordlist`: list of strings
 - `alpha`: the threshold for "similarity", smaller the stricter
 ## sample test:
-`print(quasi_dup_combiner(["sale","sales","operations","operation","analytics","analitcis","analytic","web"]))`
+```python
+print(quasi_dup_combiner(["sale","sales","operations","operation","analytics","analitcis","analytic","web"]))
+```
 
 output:
 
