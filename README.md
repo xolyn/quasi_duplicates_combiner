@@ -3,7 +3,7 @@ A Python program combining similar words in a word bag.
 
 ## parameter:
 - `wordlist`: list of strings
-- 'alpha': the threshold for "similarity", smaller the stricter
+- `alpha`: the threshold for "similarity", smaller the stricter
 ## sample test:
 `print(quasi_dup_combiner(["sale","sales","operations","operation","analytics","analitcis","analytic","web"]))`
 
