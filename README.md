@@ -1,7 +1,7 @@
 # quasi_duplicates_combiner
 A Python program combining similar words in a word bag. 
 
-## parameter:
+## parameters:
 - `wordlist`: list of strings
 - `alpha`: the threshold for "similarity", smaller the stricter
 ## sample test:
